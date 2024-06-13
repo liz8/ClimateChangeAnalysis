@@ -29,9 +29,8 @@ Los datos utilizados en este proyecto son del GISS Surface Temperature Analysis 
 
 ## Estructura del Proyecto
 
-- `"GLB.Ts+dSST.csv"`: Contiene el archivo de datos `GLB.Ts+dSST.csv`.
-- `notebooks/`: Contiene el cuaderno de Jupyter (o script de Python) con el análisis.
-- `images/`: Contiene las imágenes generadas durante el análisis, como gráficos.
+- `GLB.Ts+dSST.csv`: Contiene el archivo de datos.
+- `https://github.com/liz8/ClimateChangeAnalysis/blob/main/ClimateChangeAnalysis_Scripts.ipynb`: Contiene el cuaderno de Jupyter (o script de Python) con el análisis.
 - `README.md`: Este archivo, que describe el proyecto.
 
 ## Requisitos
@@ -40,10 +39,3 @@ Los datos utilizados en este proyecto son del GISS Surface Temperature Analysis 
 - Pandas
 - Matplotlib
 
-## Ejecución
-
-Para reproducir este análisis, sigue los siguientes pasos:
-
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/TuUsuario/TuRepositorio.git
